@@ -1,0 +1,16 @@
+{
+  "name": "webizy_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Shiv Kumar",
+  "license": "ISC",
+  "homepage": "https://developershiv20.github.io/",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
